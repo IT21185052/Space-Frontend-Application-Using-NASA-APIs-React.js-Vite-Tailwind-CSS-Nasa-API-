@@ -1,0 +1,20 @@
+.login{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-color: #00000090;
+    
+}
+.login-container {
+    place-self: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+.login-form {
+    width: 400px; /* Adjust the width as needed */
+    max-width: 90%; /* Optional: set a maximum width */
+}
